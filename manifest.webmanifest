@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Hip Fracture DOAC Timing Aid",
+  "short_name": "DOAC Timing",
+  "description": "Hip fracture on a DOAC: anaesthetic timing decision aid",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6f9",
+  "theme_color": "#0b5cad",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
